@@ -1,6 +1,6 @@
 # CnWordCorrector
 Specialized Chinese Word Document Corrector
-# 天智杯文本纠错技术报告
+# 文本纠错技术报告
 
 ### 一、纠错类型
 
